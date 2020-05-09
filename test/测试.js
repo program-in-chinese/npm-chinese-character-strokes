@@ -9,5 +9,8 @@ describe('取笔顺', function() {
     it('有', function() {
       assert.strictEqual(演示.取笔顺("一"), "1");
     });
+    it('最长', function() {
+      assert.strictEqual(演示.取笔顺("罐"), "31125212225125132411121");
+    });
   });
 });

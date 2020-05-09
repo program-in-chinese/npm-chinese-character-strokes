@@ -1,6 +1,6 @@
 {
   "name": "chinese-character-strokes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "汉字笔顺",
   "main": "入口.js",
   "scripts": {
