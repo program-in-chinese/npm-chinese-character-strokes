@@ -22,7 +22,7 @@ U+4E5A,乚,5
 U+4E5B,乛,5
 ```
 
-API 请参考单元测试
+API 用法请参考[单元测试](https://github.com/program-in-chinese/npm-chinese-character-strokes/tree/master/test)。
 
 ## 介绍文章
 

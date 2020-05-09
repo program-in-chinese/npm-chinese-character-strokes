@@ -1,12 +1,16 @@
 {
   "name": "chinese-character-strokes",
-  "version": "0.0.2",
-  "description": "汉字笔顺",
+  "version": "0.0.3",
+  "description": "汉字笔画笔顺数据",
   "main": "入口.js",
   "scripts": {
     "test": "mocha"
   },
   "author": "nobodxbodon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/program-in-chinese/npm-chinese-character-strokes.git"
+  },
   "license": "ISC",
   "dependencies": {
     "mocha": "^7.1.2"
