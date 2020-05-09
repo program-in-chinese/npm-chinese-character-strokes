@@ -1,0 +1,14 @@
+{
+  "name": "chinese-character-strokes",
+  "version": "0.0.1",
+  "description": "汉字笔顺",
+  "main": "入口.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nobodxbodon",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
